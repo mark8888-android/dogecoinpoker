@@ -1,0 +1,6 @@
+{
+  "name": "Dogecoin Cyber Video Poker",
+  "description": "Neon Cyberpunk Jacks or Better Video Poker console interfaced with Dogecoin Core v1.14.9, player & house settlement wallets, and tactile controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
